@@ -1,0 +1,7 @@
+Drinks Coke 45 10 12
+Snacks Hansel 0 5 10
+Drinks DutchMill 67 10 15 67
+Drinks Sprite500mL 67 70 75
+Snacks RebiscoCrackers 40 10 12
+Drinks Sprite 60 60 75 60
+Drinks Pepsi 50 20 23 45
